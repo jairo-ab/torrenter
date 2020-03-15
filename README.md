@@ -33,4 +33,6 @@ This script also works on other Linux based OS
 If you want to show your appreciation, you can donate me on [ko-fi](https://ko-fi.com/Z8Z5KDA6) or [buy me a coffee](https://www.buymeacoffee.com/sayem). Thanks!
 
 > Made with :heart: & :coffee: by Sayem
+
+
 > Tradução feita com :heart: & :coffee: por Jairo Abreu
