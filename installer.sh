@@ -17,7 +17,7 @@ if [[ $OS != 'Android' ]] && [[ "$EUID" -ne 0 ]]; then
 	exit 1
 fi
 
-printf "\nPlease wait, this might take few minutes to complete...\n"
+printf "\nAguarde, isso pode levar alguns minutos para ser concluído ...\n"
 sleep 2
 
 # installer
@@ -107,7 +107,7 @@ else
     package_installer "xbps-install -Sy"
 
   else
-    printf "Unsupported OS!\n"
+    printf "SO não suportado!\n"
     exit 1
   fi
 
